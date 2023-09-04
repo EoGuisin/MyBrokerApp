@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "/Users/digitaldev/Desktop/MyBroker/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_imagemdefundologo.png.flat",
+        "source": "/Users/digitaldev/Desktop/MyBroker/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_imagemdefundologo.png"
+    },
+    {
+        "merged": "/Users/digitaldev/Desktop/MyBroker/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnavigationstack_lib_module_vendor_views_assets_backiconmask.png.flat",
+        "source": "/Users/digitaldev/Desktop/MyBroker/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnavigationstack_lib_module_vendor_views_assets_backiconmask.png"
+    },
+    {
+        "merged": "/Users/digitaldev/Desktop/MyBroker/android/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/digitaldev/Desktop/MyBroker/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/digitaldev/Desktop/MyBroker/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_src_assets_cam.png.flat",
+        "source": "/Users/digitaldev/Desktop/MyBroker/android/app/build/generated/res/react/release/drawable-xxhdpi/src_assets_cam.png"
+    },
+    {
+        "merged": "/Users/digitaldev/Desktop/MyBroker/android/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/digitaldev/Desktop/MyBroker/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/digitaldev/Desktop/MyBroker/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_logomenu.png.flat",
+        "source": "/Users/digitaldev/Desktop/MyBroker/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_logomenu.png"
+    },
+    {
+        "merged": "/Users/digitaldev/Desktop/MyBroker/android/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/digitaldev/Desktop/MyBroker/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/digitaldev/Desktop/MyBroker/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnativealertnotification_src_assets_success.png.flat",
+        "source": "/Users/digitaldev/Desktop/MyBroker/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnativealertnotification_src_assets_success.png"
+    },
+    {
+        "merged": "/Users/digitaldev/Desktop/MyBroker/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_nomedaempresa.png.flat",
+        "source": "/Users/digitaldev/Desktop/MyBroker/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_nomedaempresa.png"
+    },
+    {
+        "merged": "/Users/digitaldev/Desktop/MyBroker/android/app/build/intermediates/res/merged/release/drawable-xhdpi_src_assets_cam.png.flat",
+        "source": "/Users/digitaldev/Desktop/MyBroker/android/app/build/generated/res/react/release/drawable-xhdpi/src_assets_cam.png"
+    },
+    {
+        "merged": "/Users/digitaldev/Desktop/MyBroker/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_cam.png.flat",
+        "source": "/Users/digitaldev/Desktop/MyBroker/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_cam.png"
+    },
+    {
+        "merged": "/Users/digitaldev/Desktop/MyBroker/android/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/digitaldev/Desktop/MyBroker/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/digitaldev/Desktop/MyBroker/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_logofundoverde.png.flat",
+        "source": "/Users/digitaldev/Desktop/MyBroker/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_logofundoverde.png"
+    },
+    {
+        "merged": "/Users/digitaldev/Desktop/MyBroker/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_imagemdefundologin.png.flat",
+        "source": "/Users/digitaldev/Desktop/MyBroker/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_imagemdefundologin.png"
+    },
+    {
+        "merged": "/Users/digitaldev/Desktop/MyBroker/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/digitaldev/Desktop/MyBroker/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/digitaldev/Desktop/MyBroker/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png.flat",
+        "source": "/Users/digitaldev/Desktop/MyBroker/android/app/build/generated/res/react/release/drawable-xxhdpi/node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/digitaldev/Desktop/MyBroker/android/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/digitaldev/Desktop/MyBroker/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/digitaldev/Desktop/MyBroker/android/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/digitaldev/Desktop/MyBroker/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/digitaldev/Desktop/MyBroker/android/app/build/intermediates/res/merged/release/drawable-hdpi_node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png.flat",
+        "source": "/Users/digitaldev/Desktop/MyBroker/android/app/build/generated/res/react/release/drawable-hdpi/node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/digitaldev/Desktop/MyBroker/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/digitaldev/Desktop/MyBroker/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/digitaldev/Desktop/MyBroker/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnativealertnotification_src_assets_danger.png.flat",
+        "source": "/Users/digitaldev/Desktop/MyBroker/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnativealertnotification_src_assets_danger.png"
+    },
+    {
+        "merged": "/Users/digitaldev/Desktop/MyBroker/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_logoone.png.flat",
+        "source": "/Users/digitaldev/Desktop/MyBroker/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_logoone.png"
+    },
+    {
+        "merged": "/Users/digitaldev/Desktop/MyBroker/android/app/build/intermediates/res/merged/release/drawable-xhdpi_node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png.flat",
+        "source": "/Users/digitaldev/Desktop/MyBroker/android/app/build/generated/res/react/release/drawable-xhdpi/node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/digitaldev/Desktop/MyBroker/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_fundobranco.png.flat",
+        "source": "/Users/digitaldev/Desktop/MyBroker/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_fundobranco.png"
+    },
+    {
+        "merged": "/Users/digitaldev/Desktop/MyBroker/android/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/digitaldev/Desktop/MyBroker/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/digitaldev/Desktop/MyBroker/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png.flat",
+        "source": "/Users/digitaldev/Desktop/MyBroker/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/digitaldev/Desktop/MyBroker/android/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/digitaldev/Desktop/MyBroker/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/digitaldev/Desktop/MyBroker/android/app/build/intermediates/res/merged/release/drawable-xxxhdpi_node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png.flat",
+        "source": "/Users/digitaldev/Desktop/MyBroker/android/app/build/generated/res/react/release/drawable-xxxhdpi/node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/digitaldev/Desktop/MyBroker/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnativealertnotification_src_assets_warning.png.flat",
+        "source": "/Users/digitaldev/Desktop/MyBroker/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnativealertnotification_src_assets_warning.png"
+    }
+]

@@ -1,0 +1,24 @@
+{
+  "name": "react-native-bg-thread",
+  "version": "1.1.9",
+  "summary": "react-native-bg-thread",
+  "homepage": "https://github.com/Blitz-Mobile-Apps/react-native-bg-thread.git",
+  "license": "MIT",
+  "authors": {
+    "author": "Alex"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://github.com/Blitz-Mobile-Apps/react-native-bg-thread.git",
+    "tag": "master"
+  },
+  "source_files": "ios/*.{h,m}",
+  "requires_arc": true,
+  "dependencies": {
+    "React": [
+
+    ]
+  }
+}

@@ -1,0 +1,654 @@
+[
+    {
+        "pessoa": {
+            "id": 1,
+            "cpf": "70261231146",
+            "nome": "Washington dos Santos Rosa Filho",
+            "natureza": 2,
+            "dataDeNascimento": "1997-02-08T00:00:00",
+            "emails": [
+                {
+                    "classificacao": 1,
+                    "descricao": "washington@consiglieresolucoes.com.br"
+                }
+            ],
+            "documentoPessoal": null,
+            "rg": null,
+            "creci": null,
+            "estadoCivil": 1,
+            "documentoDeEstadoCivil": null,
+            "regimeDeBens": null,
+            "ocupacao": null,
+            "necessarioAssinaturaDoConjuge": false,
+            "conjuge": null,
+            "endereco": null,
+            "documentoEndereco": null,
+            "telefones": [
+            {
+                "classificacao": 1,
+                "ddi": "55",
+                "ddd": "62",
+                "numero": "981546798",
+                "observacao": "Telefone principal"
+            },
+            {
+                "classificacao": 3,
+                "ddi": "55",
+                "ddd": "62",
+                "numero": "981554400",
+                "observacao": "Telefone p/ recado"
+            }
+            ]
+        },
+        "empresasComPermissaoDeAcesso": [
+            {
+                "grupo": {
+                    "nome": "GAV Resorts",
+                    "permissaoDeAcesso": true,
+                    "empresas": [
+                        {
+                            "id": 20,
+                            "nomeFantasia": "SALINAS PREMIUM RESORT EMPREENDIMENTO IMOBILIARIO SPE LTDA",
+                            "razaoSocial": "SALINAS PREMIUM RESORT EMPREENDIMENTO IMOBILIARIO SPE LTDA",
+                            "cnpj": "28883561000103",
+                            "ie": null,
+                            "im": null,
+                            "enquadramentoTributario": null,
+                            "permissaoDeAcesso": true,
+                            "centrodecusto": [
+                                {
+                                    "empresa": {
+                                        "id": 20,
+                                        "nomeFantasia": "SALINAS PREMIUM RESORT EMPREENDIMENTO IMOBILIARIO SPE LTDA",
+                                        "razaoSocial": "SALINAS PREMIUM RESORT EMPREENDIMENTO IMOBILIARIO SPE LTDA",
+                                        "cnpj": "28883561000103",
+                                        "ie": null,
+                                        "im": null,
+                                        "enquadramentoTributario": null
+                                    },
+                                    "sigla": "SALPR",
+                                    "descricao": "SALINAS PREMIUM RESORT",
+                                    "permissaoDeAcesso": false,
+                                    "modulos": [
+                                        {
+                                            "id": 0,
+                                            "name": "Leads",
+                                            "permissaoDeAcesso": true
+                                        },
+                                        {
+                                            "id": 1,
+                                            "name": "Prospects",
+                                            "permissaoDeAcesso": true
+                                        },
+                                        {
+                                            "id": 2,
+                                            "name": "Disponibilidade",
+                                            "permissaoDeAcesso": true
+                                        },
+                                        {
+                                            "id": 3,
+                                            "name": "Proposta pendentes",
+                                            "permissaoDeAcesso": true
+                                        },
+                                        {
+                                            "id": 4,
+                                            "name": "Permissoes",
+                                            "permissaoDeAcesso": false
+                                        },
+                                        {
+                                            "id": 5,
+                                            "name": "Minhas reservas",
+                                            "permissaoDeAcesso": false
+                                        },
+                                        {
+                                            "id": 6,
+                                            "name": "Meus contratos",
+                                            "permissaoDeAcesso": false
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": 21,
+                            "nomeFantasia": "E.T.R. CONSTRUTORA E INCORPORADORA LTDA",
+                            "razaoSocial": "E.T.R. CONSTRUTORA E INCORPORADORA LTDA",
+                            "cnpj": "14194873000197",
+                            "ie": null,
+                            "im": null,
+                            "enquadramentoTributario": null,
+                            "permissaoDeAcesso": true,
+                            "centrodecusto": [
+                                {
+                                    "empresa": {
+                                        "id": 21,
+                                        "nomeFantasia": "E.T.R. CONSTRUTORA E INCORPORADORA LTDA",
+                                        "razaoSocial": "E.T.R. CONSTRUTORA E INCORPORADORA LTDA",
+                                        "cnpj": "14194873000197",
+                                        "ie": null,
+                                        "im": null,
+                                        "enquadramentoTributario": null
+                                    },
+                                    "sigla": "SALPK",
+                                    "descricao": "SALINAS PARK RESORT",
+                                    "permissaoDeAcesso": true,
+                                    "modulos": [
+                                        {
+                                            "id": 0,
+                                            "name": "Leads",
+                                            "permissaoDeAcesso": true
+                                        },
+                                        {
+                                            "id": 1,
+                                            "name": "Prospects",
+                                            "permissaoDeAcesso": true
+                                        },
+                                        {
+                                            "id": 2,
+                                            "name": "Disponibilidade",
+                                            "permissaoDeAcesso": true
+                                        },
+                                        {
+                                            "id": 3,
+                                            "name": "Proposta pendentes",
+                                            "permissaoDeAcesso": true
+                                        },
+                                        {
+                                            "id": 4,
+                                            "name": "Permissoes",
+                                            "permissaoDeAcesso": true
+                                        },
+                                        {
+                                            "id": 5,
+                                            "name": "Minhas reservas",
+                                            "permissaoDeAcesso": true
+                                        },
+                                        {
+                                            "id": 6,
+                                            "name": "Meus contratos",
+                                            "permissaoDeAcesso": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": 22,
+                            "nomeFantasia": "ATALAIA RESORT EMPREENDIMENTO IMOBILIÁRIO SPE LTDA",
+                            "razaoSocial": "ATALAIA RESORT EMPREENDIMENTO IMOBILIÁRIO SPE LTDA",
+                            "cnpj": "26504364000100",
+                            "ie": null,
+                            "im": null,
+                            "enquadramentoTributario": null,
+                            "permissaoDeAcesso": true,
+                            "centrodecusto": [
+                                {    
+                                    "empresa": {
+                                        "id": 22,
+                                        "nomeFantasia": "ATALAIA RESORT EMPREENDIMENTO IMOBILIÁRIO SPE LTDA",
+                                        "razaoSocial": "ATALAIA RESORT EMPREENDIMENTO IMOBILIÁRIO SPE LTDA",
+                                        "cnpj": "26504364000100",
+                                        "ie": null,
+                                        "im": null,
+                                        "enquadramentoTributario": null
+                                    },
+                                    "sigla": "SALEX",
+                                    "descricao": "SALINAS EXCLUSIVE RESORT",
+                                    "permissaoDeAcesso": false,
+                                    "modulos": [
+                                        {
+                                            "id": 0,
+                                            "name": "Leads",
+                                            "permissaoDeAcesso": true
+                                        },
+                                        {
+                                            "id": 1,
+                                            "name": "Prospects",
+                                            "permissaoDeAcesso": true
+                                        },
+                                        {
+                                            "id": 2,
+                                            "name": "Disponibilidade",
+                                            "permissaoDeAcesso": true
+                                        },
+                                        {
+                                            "id": 3,
+                                            "name": "Proposta pendentes",
+                                            "permissaoDeAcesso": true
+                                        },
+                                        {
+                                            "id": 4,
+                                            "name": "Permissoes",
+                                            "permissaoDeAcesso": true
+                                        },
+                                        {
+                                            "id": 5,
+                                            "name": "Minhas reservas",
+                                            "permissaoDeAcesso": true
+                                        },
+                                        {
+                                            "id": 6,
+                                            "name": "Meus contratos",
+                                            "permissaoDeAcesso": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": 23,
+                            "nomeFantasia": "GAV MURO ALTO EMPREENDIMENTO IMOBILIÁRIO SPE LTDA",
+                            "razaoSocial": "GAV MURO ALTO EMPREENDIMENTO IMOBILIÁRIO SPE LTDA",
+                            "cnpj": "34832326000105",
+                            "ie": null,
+                            "im": null,
+                            "enquadramentoTributario": null,
+                            "permissaoDeAcesso": true,
+                            "centrodecusto": [
+                                {
+                                    "empresa": {
+                                        "id": 23,
+                                        "nomeFantasia": "GAV MURO ALTO EMPREENDIMENTO IMOBILIÁRIO SPE LTDA",
+                                        "razaoSocial": "GAV MURO ALTO EMPREENDIMENTO IMOBILIÁRIO SPE LTDA",
+                                        "cnpj": "34832326000105",
+                                        "ie": null,
+                                        "im": null,
+                                        "enquadramentoTributario": null
+                                    },
+                                    "sigla": "PORAL",
+                                    "descricao": "PORTO ALTO RESORT",
+                                    "permissaoDeAcesso": true,
+                                    "modulos": [
+                                        {
+                                            "id": 0,
+                                            "name": "Leads",
+                                            "permissaoDeAcesso": true
+                                        },
+                                        {
+                                            "id": 1,
+                                            "name": "Prospects",
+                                            "permissaoDeAcesso": true
+                                        },
+                                        {
+                                            "id": 2,
+                                            "name": "Disponibilidade",
+                                            "permissaoDeAcesso": true
+                                        },
+                                        {
+                                            "id": 3,
+                                            "name": "Proposta pendentes",
+                                            "permissaoDeAcesso": true
+                                        },
+                                        {
+                                            "id": 4,
+                                            "name": "Permissoes",
+                                            "permissaoDeAcesso": true
+                                        },
+                                        {
+                                            "id": 5,
+                                            "name": "Minhas reservas",
+                                            "permissaoDeAcesso": true
+                                        },
+                                        {
+                                            "id": 6,
+                                            "name": "Meus contratos",
+                                            "permissaoDeAcesso": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                
+                "grupo": {
+                    "nome": "Harmonia Urbanismo",
+                    "permissaoDeAcesso": true,
+                    "empresas": [
+                        {
+                            "id": 18,
+                            "nomeFantasia": "TERESINA 01 EMPREENDIMENTOS IMOBILIARIOS SPE LTDA",
+                            "razaoSocial": "TERESINA 01 EMPREENDIMENTOS IMOBILIARIOS SPE LTDA",
+                            "cnpj": "18867859000168",
+                            "ie": null,
+                            "im": null,
+                            "enquadramentoTributario": null,
+                            "centrodecusto": [
+                                {
+                                    "empresa": {
+                                        "id": 18,
+                                        "nomeFantasia": "TERESINA 01 EMPREENDIMENTOS IMOBILIARIOS SPE LTDA",
+                                        "razaoSocial": "TERESINA 01 EMPREENDIMENTOS IMOBILIARIOS SPE LTDA",
+                                        "cnpj": "18867859000168",
+                                        "ie": null,
+                                        "im": null,
+                                        "enquadramentoTributario": null
+                                    },
+                                    "sigla": "22VEN",
+                                    "descricao": "LOTEAMENTO VILLA IMPERIAL",
+                                    "permissaoDeAcesso": true,
+                                    "modulos": [
+                                        {
+                                            "id": 0,
+                                            "name": "Leads",
+                                            "permissaoDeAcesso": true
+                                        },
+                                        {
+                                            "id": 1,
+                                            "name": "Prospects",
+                                            "permissaoDeAcesso": true
+                                        },
+                                        {
+                                            "id": 2,
+                                            "name": "Disponibilidade",
+                                            "permissaoDeAcesso": true
+                                        },
+                                        {
+                                            "id": 3,
+                                            "name": "Proposta pendentes",
+                                            "permissaoDeAcesso": true
+                                        },
+                                        {
+                                            "id": 4,
+                                            "name": "Permissoes",
+                                            "permissaoDeAcesso": true
+                                        },
+                                        {
+                                            "id": 5,
+                                            "name": "Minhas reservas",
+                                            "permissaoDeAcesso": true
+                                        },
+                                        {
+                                            "id": 6,
+                                            "name": "Meus contratos",
+                                            "permissaoDeAcesso": true
+                                        }
+                                    ]
+                                }
+                            ],                         
+                            "permissaoDeAcesso": true
+                        }
+                    ]
+                }
+            },
+            {
+                "grupo": {
+                    "nome": "Silva Branco",
+                    "permissaoDeAcesso": true,
+                    "empresas": [
+                        {
+                            "id": 19,
+                            "nomeFantasia": "SILVA BRANCO",
+                            "razaoSocial": "SILVA BRANCO CONSTRUTORA E INCORPORADORA LTDA",
+                            "cnpj": "07663389000102",
+                            "ie": null,
+                            "im": null,
+                            "enquadramentoTributario": null,
+                            "permissaoDeAcesso": true,
+                            "centrodecusto": [
+                                {
+                                    "empresa": {
+                                        "id": 19,
+                                        "nomeFantasia": "SILVA BRANCO",
+                                        "razaoSocial": "SILVA BRANCO CONSTRUTORA E INCORPORADORA LTDA",
+                                        "cnpj": "07663389000102",
+                                        "ie": null,
+                                        "im": null,
+                                        "enquadramentoTributario": null
+                                    },
+                                    "sigla": "BSBDF",
+                                    "descricao": "BRASÍLIA (DF)",
+                                    "permissaoDeAcesso": true,
+                                    "modulos": [
+                                        {
+                                            "id": 0,
+                                            "name": "Leads",
+                                            "permissaoDeAcesso": true
+                                        },
+                                        {
+                                            "id": 1,
+                                            "name": "Prospects",
+                                            "permissaoDeAcesso": true
+                                        },
+                                        {
+                                            "id": 2,
+                                            "name": "Disponibilidade",
+                                            "permissaoDeAcesso": true
+                                        },
+                                        {
+                                            "id": 3,
+                                            "name": "Proposta pendentes",
+                                            "permissaoDeAcesso": true
+                                        },
+                                        {
+                                            "id": 4,
+                                            "name": "Permissoes",
+                                            "permissaoDeAcesso": true
+                                        },
+                                        {
+                                            "id": 5,
+                                            "name": "Minhas reservas",
+                                            "permissaoDeAcesso": true
+                                        },
+                                        {
+                                            "id": 6,
+                                            "name": "Meus contratos",
+                                            "permissaoDeAcesso": true
+                                        }
+                                    ]
+                                },
+                                {
+                                    "empresa": {
+                                        "id": 19,
+                                        "nomeFantasia": "SILVA BRANCO",
+                                        "razaoSocial": "SILVA BRANCO CONSTRUTORA E INCORPORADORA LTDA",
+                                        "cnpj": "07663389000102",
+                                        "ie": null,
+                                        "im": null,
+                                        "enquadramentoTributario": null
+                                    },
+                                    "sigla": "COCGO",
+                                    "descricao": "CIDADE OCIDENTAL (GO)",
+                                    "permissaoDeAcesso": true,
+                                    "modulos": [
+                                        {
+                                            "id": 0,
+                                            "name": "Leads",
+                                            "permissaoDeAcesso": true
+                                        },
+                                        {
+                                            "id": 1,
+                                            "name": "Prospects",
+                                            "permissaoDeAcesso": true
+                                        },
+                                        {
+                                            "id": 2,
+                                            "name": "Disponibilidade",
+                                            "permissaoDeAcesso": true
+                                        },
+                                        {
+                                            "id": 3,
+                                            "name": "Proposta pendentes",
+                                            "permissaoDeAcesso": true
+                                        },
+                                        {
+                                            "id": 4,
+                                            "name": "Permissoes",
+                                            "permissaoDeAcesso": true
+                                        },
+                                        {
+                                            "id": 5,
+                                            "name": "Minhas reservas",
+                                            "permissaoDeAcesso": true
+                                        },
+                                        {
+                                            "id": 6,
+                                            "name": "Meus contratos",
+                                            "permissaoDeAcesso": true
+                                        }
+                                    ]
+                                },
+                                {
+                                    "empresa": {
+                                        "id": 19,
+                                        "nomeFantasia": "SILVA BRANCO",
+                                        "razaoSocial": "SILVA BRANCO CONSTRUTORA E INCORPORADORA LTDA",
+                                        "cnpj": "07663389000102",
+                                        "ie": null,
+                                        "im": null,
+                                        "enquadramentoTributario": null
+                                    },
+                                    "sigla": "CRZDF",
+                                    "descricao": "CRUZEIRO (DF)",
+                                    "permissaoDeAcesso": true,
+                                    "modulos": [
+                                        {
+                                            "id": 0,
+                                            "name": "Leads",
+                                            "permissaoDeAcesso": true
+                                        },
+                                        {
+                                            "id": 1,
+                                            "name": "Prospects",
+                                            "permissaoDeAcesso": true
+                                        },
+                                        {
+                                            "id": 2,
+                                            "name": "Disponibilidade",
+                                            "permissaoDeAcesso": true
+                                        },
+                                        {
+                                            "id": 3,
+                                            "name": "Proposta pendentes",
+                                            "permissaoDeAcesso": true
+                                        },
+                                        {
+                                            "id": 4,
+                                            "name": "Permissoes",
+                                            "permissaoDeAcesso": true
+                                        },
+                                        {
+                                            "id": 5,
+                                            "name": "Minhas reservas",
+                                            "permissaoDeAcesso": true
+                                        },
+                                        {
+                                            "id": 6,
+                                            "name": "Meus contratos",
+                                            "permissaoDeAcesso": true
+                                        }
+                                    ]
+                                },
+                                {
+                                    "empresa": {
+                                        "id": 19,
+                                        "nomeFantasia": "SILVA BRANCO",
+                                        "razaoSocial": "SILVA BRANCO CONSTRUTORA E INCORPORADORA LTDA",
+                                        "cnpj": "07663389000102",
+                                        "ie": null,
+                                        "im": null,
+                                        "enquadramentoTributario": null
+                                    },
+                                    "sigla": "LSLDF",
+                                    "descricao": "LAGO SUL (DF)",
+                                    "permissaoDeAcesso": true,
+                                    "modulos": [
+                                        {
+                                            "id": 0,
+                                            "name": "Leads",
+                                            "permissaoDeAcesso": true
+                                        },
+                                        {
+                                            "id": 1,
+                                            "name": "Prospects",
+                                            "permissaoDeAcesso": true
+                                        },
+                                        {
+                                            "id": 2,
+                                            "name": "Disponibilidade",
+                                            "permissaoDeAcesso": true
+                                        },
+                                        {
+                                            "id": 3,
+                                            "name": "Proposta pendentes",
+                                            "permissaoDeAcesso": true
+                                        },
+                                        {
+                                            "id": 4,
+                                            "name": "Permissoes",
+                                            "permissaoDeAcesso": true
+                                        },
+                                        {
+                                            "id": 5,
+                                            "name": "Minhas reservas",
+                                            "permissaoDeAcesso": true
+                                        },
+                                        {
+                                            "id": 6,
+                                            "name": "Meus contratos",
+                                            "permissaoDeAcesso": true
+                                        }
+                                    ]
+                                },
+                                {
+                                    "empresa": {
+                                      "id": 19,
+                                      "nomeFantasia": "SILVA BRANCO",
+                                      "razaoSocial": "SILVA BRANCO CONSTRUTORA E INCORPORADORA LTDA",
+                                      "cnpj": "07663389000102",
+                                      "ie": null,
+                                      "im": null,
+                                      "enquadramentoTributario": null
+                                    },
+                                    "sigla": "VALGO",
+                                    "descricao": "VALPARAÍSO DE GOIÁS (GO)",
+                                    "permissaoDeAcesso": true,
+                                    "modulos": [
+                                        {
+                                            "id": 0,
+                                            "name": "Leads",
+                                            "permissaoDeAcesso": true
+                                        },
+                                        {
+                                            "id": 1,
+                                            "name": "Prospects",
+                                            "permissaoDeAcesso": true
+                                        },
+                                        {
+                                            "id": 2,
+                                            "name": "Disponibilidade",
+                                            "permissaoDeAcesso": true
+                                        },
+                                        {
+                                            "id": 3,
+                                            "name": "Proposta pendentes",
+                                            "permissaoDeAcesso": true
+                                        },
+                                        {
+                                            "id": 4,
+                                            "name": "Permissoes",
+                                            "permissaoDeAcesso": true
+                                        },
+                                        {
+                                            "id": 5,
+                                            "name": "Minhas reservas",
+                                            "permissaoDeAcesso": true
+                                        },
+                                        {
+                                            "id": 6,
+                                            "name": "Meus contratos",
+                                            "permissaoDeAcesso": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            }
+        ],
+        "primeiroAcesso": false
+    }
+]

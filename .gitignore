@@ -1,0 +1,11 @@
+# Ignorar pastas e arquivos no Android
+android/.gradle/7.3.3/executionHistory/executionHistory.bin
+android/app/build/intermediates/intermediary_b/intermediary-bundle.aab
+android/app/build/outputs/apk/debug/app-debug.apk
+android/app/build/intermediates/intermediary_bundle/release/intermediary-bundle.aab
+android/app/build/intermediates/module_bundle/release/base.zip
+android/java_pid1079.hprof
+android/java_pid67350.hprof
+
+# Ignorar arquivo IPA no iOS
+ios/Pattro 2022-09-30 17-21-57/Pattro.ipa

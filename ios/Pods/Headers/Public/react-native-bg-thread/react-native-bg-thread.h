@@ -1,0 +1,1 @@
+../../../../../node_modules/react-native-bg-thread/ios/react-native-bg-thread.h

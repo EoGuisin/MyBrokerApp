@@ -1,0 +1,14 @@
+[
+    {
+        "chave": "Debito",
+        "Valor": "Débito"
+    },
+    {
+        "chave": "CreditoAVista",
+        "Valor": "Crédito à vista"
+    },
+    {
+        "chave": "CreditoParcelado",
+        "Valor": "Crédito Parcelado"
+    }
+]

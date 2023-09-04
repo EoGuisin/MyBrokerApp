@@ -1,0 +1,66 @@
+[
+    {
+        "chave": "AGIPLAN",
+        "Valor": "AGIPLAN"
+    },
+    {
+        "chave": "AMERICANEXPRESS",
+        "Valor": "AMERICANEXPRESS"
+    },
+    {
+        "chave": "BANESCARD",
+        "Valor": "BANESCARD"
+    },
+    {
+        "chave": "BANRICOMPRAS",
+        "Valor": "BANRICOMPRAS"
+    },
+    {
+        "chave": "CABAL",
+        "Valor": "CABAL"
+    },
+    {
+        "chave": "CREDSYSTEM",
+        "Valor": "CREDSYSTEM"
+    },
+    {
+        "chave": "CREDZ",
+        "Valor": "CREDZ"
+    },
+    {
+        "chave": "DINERS",
+        "Valor": "DINERS"
+    },
+    {
+        "chave": "ELO",
+        "Valor": "ELO"
+    },
+    {
+        "chave": "HIPERCARD",
+        "Valor": "HIPERCARD"
+    },
+    {
+        "chave": "MASTER",
+        "Valor": "MASTER"
+    },
+    {
+        "chave": "MAXXVAN",
+        "Valor": "MAXXVAN"
+    },
+    {
+        "chave": "REDESHOP",
+        "Valor": "REDESHOP"
+    },
+    {
+        "chave": "SICREDI",
+        "Valor": "SICREDI"
+    },
+    {
+        "chave": "SOROCRED",
+        "Valor": "SOROCRED"
+    },
+    {
+        "chave": "VISA",
+        "Valor": "VISA"
+    }
+]

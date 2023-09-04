@@ -1,0 +1,6 @@
+module Pods_Pattro_PattroTests {
+  umbrella header "Pods-Pattro-PattroTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

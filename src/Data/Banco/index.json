@@ -1,0 +1,918 @@
+[
+    {
+        "chave": "1",
+        "Valor": "Banco do Brasil S.A."
+    },
+    {
+        "chave": "3",
+        "Valor": "Banco da Amazônia S.A."
+    },
+    {
+        "chave": "4",
+        "Valor": "Banco do Nordeste do Brasil S.A."
+    },
+    {
+        "chave": "7",
+        "Valor": "Banco Nacional de Desenvolvimento Econômico e Social – BNDES"
+    },
+    {
+        "chave": "10",
+        "Valor": "Credicoamo"
+    },
+    {
+        "chave": "11",
+        "Valor": "C.Suisse Hedging-Griffo Cv S.A (Credit Suisse)"
+    },
+    {
+        "chave": "12",
+        "Valor": "Banco Inbursa S.A."
+    },
+    {
+        "chave": "14",
+        "Valor": "Natixis Brasil S.A. Banco Múltiplo"
+    },
+    {
+        "chave": "16",
+        "Valor": "Ccm Desp Trâns Sc E Rs"
+    },
+    {
+        "chave": "17",
+        "Valor": "BNY Mellon Banco S.A."
+    },
+    {
+        "chave": "18",
+        "Valor": "Banco Tricury S.A."
+    },
+    {
+        "chave": "21",
+        "Valor": "BANESTES S.A. Banco do Estado do Espírito Santo"
+    },
+    {
+        "chave": "24",
+        "Valor": "Banco BANDEPE S.A."
+    },
+    {
+        "chave": "25",
+        "Valor": "Banco Alfa S.A."
+    },
+    {
+        "chave": "29",
+        "Valor": "Banco Itaú Consignado S.A."
+    },
+    {
+        "chave": "33",
+        "Valor": "Banco Santander (Brasil) S.A."
+    },
+    {
+        "chave": "36",
+        "Valor": "Banco Bradesco BBI S.A."
+    },
+    {
+        "chave": "37",
+        "Valor": "Banco do Estado do Pará S.A."
+    },
+    {
+        "chave": "40",
+        "Valor": "Banco Cargill S.A."
+    },
+    {
+        "chave": "41",
+        "Valor": "Banco do Estado do Rio Grande do Sul S.A."
+    },
+    {
+        "chave": "47",
+        "Valor": "Banco do Estado de Sergipe S.A."
+    },
+    {
+        "chave": "51",
+        "Valor": "Banco de Desenvolvimento do Espírito Santo S.A."
+    },
+    {
+        "chave": "60",
+        "Valor": "Confidence Cc S.A"
+    },
+    {
+        "chave": "62",
+        "Valor": "Hipercard Banco Múltiplo S.A."
+    },
+    {
+        "chave": "63",
+        "Valor": "Banco Bradescard S.A."
+    },
+    {
+        "chave": "64",
+        "Valor": "Goldman Sachs do Brasil Banco Múltiplo S.A."
+    },
+    {
+        "chave": "65",
+        "Valor": "Banco Andbank (Brasil) S.A."
+    },
+    {
+        "chave": "66",
+        "Valor": "Banco Morgan Stanley S.A."
+    },
+    {
+        "chave": "69",
+        "Valor": "Banco Crefisa S.A."
+    },
+    {
+        "chave": "70",
+        "Valor": "BRB – Banco de Brasília S.A."
+    },
+    {
+        "chave": "74",
+        "Valor": "Banco J. Safra S.A."
+    },
+    {
+        "chave": "75",
+        "Valor": "Banco ABN AMRO S.A"
+    },
+    {
+        "chave": "76",
+        "Valor": "Banco KDB S.A."
+    },
+    {
+        "chave": "77",
+        "Valor": "Banco Inter S.A."
+    },
+    {
+        "chave": "78",
+        "Valor": "Haitong Banco de Investimento do Brasil S.A."
+    },
+    {
+        "chave": "79",
+        "Valor": "Banco Original do Agronegócio S.A."
+    },
+    {
+        "chave": "80",
+        "Valor": "B&T Cc Ltda"
+    },
+    {
+        "chave": "81",
+        "Valor": "BancoSeguro S.A."
+    },
+    {
+        "chave": "82",
+        "Valor": "Banco Topázio S.A."
+    },
+    {
+        "chave": "83",
+        "Valor": "Banco da China Brasil S.A."
+    },
+    {
+        "chave": "84",
+        "Valor": "Uniprime Norte do Paraná – Coop de Economia eCrédito Mútuo dos Médicos, Profissionais das Ciências"
+    },
+    {
+        "chave": "85",
+        "Valor": "Coop Central Ailos"
+    },
+    {
+        "chave": "89",
+        "Valor": "Ccr Reg Mogiana"
+    },
+    {
+        "chave": "91",
+        "Valor": "Unicred Central Rs"
+    },
+    {
+        "chave": "92",
+        "Valor": "Brickell S.A. Crédito, Financiamento e Investimento"
+    },
+    {
+        "chave": "93",
+        "Valor": "Pólocred Scmepp Ltda"
+    },
+    {
+        "chave": "94",
+        "Valor": "Banco Finaxis S.A."
+    },
+    {
+        "chave": "95",
+        "Valor": "Travelex Banco de Câmbio S.A."
+    },
+    {
+        "chave": "96",
+        "Valor": "Banco B3 S.A."
+    },
+    {
+        "chave": "97",
+        "Valor": "Cooperativa Central de Crédito Noroeste Brasileiro Ltda."
+    },
+    {
+        "chave": "98",
+        "Valor": "Credialiança Ccr"
+    },
+    {
+        "chave": "99",
+        "Valor": "UNIPRIME Central – Central Interestadual de Cooperativas de Crédito Ltda."
+    },
+    {
+        "chave": "100",
+        "Valor": "Planner Corretora De Valores S.A"
+    },
+    {
+        "chave": "101",
+        "Valor": "Renascenca Dtvm Ltda"
+    },
+    {
+        "chave": "102",
+        "Valor": "Xp Investimentos S.A"
+    },
+    {
+        "chave": "104",
+        "Valor": "Caixa Econômica Federal"
+    },
+    {
+        "chave": "105",
+        "Valor": "Lecca Crédito, Financiamento e Investimento S/A"
+    },
+    {
+        "chave": "107",
+        "Valor": "Banco BOCOM BBM S.A."
+    },
+    {
+        "chave": "108",
+        "Valor": "Portocred S.A"
+    },
+    {
+        "chave": "111",
+        "Valor": "Banco Oliveira Trust Dtvm S.A"
+    },
+    {
+        "chave": "113",
+        "Valor": "Magliano S.A"
+    },
+    {
+        "chave": "114",
+        "Valor": "Central Cooperativa De Crédito No Estado Do Espírito Santo"
+    },
+    {
+        "chave": "117",
+        "Valor": "Advanced Cc Ltda"
+    },
+    {
+        "chave": "118",
+        "Valor": "Standard Chartered Bank (Brasil) S/A–Bco Invest."
+    },
+    {
+        "chave": "119",
+        "Valor": "Banco Western Union do Brasil S.A."
+    },
+    {
+        "chave": "120",
+        "Valor": "Banco Rodobens S.A."
+    },
+    {
+        "chave": "121",
+        "Valor": "Banco Agibank S.A."
+    },
+    {
+        "chave": "121",
+        "Valor": "Banco Agibank S.A."
+    },
+    {
+        "chave": "122",
+        "Valor": "Banco Bradesco BERJ S.A."
+    },
+    {
+        "chave": "124",
+        "Valor": "Banco Woori Bank do Brasil S.A."
+    },
+    {
+        "chave": "125",
+        "Valor": "Plural S.A. – Banco Múltiplo"
+    },
+    {
+        "chave": "126",
+        "Valor": "BR Partners Banco de Investimento S.A."
+    },
+    {
+        "chave": "127",
+        "Valor": "Codepe Cvc S.A"
+    },
+    {
+        "chave": "128",
+        "Valor": "MS Bank S.A. Banco de Câmbio"
+    },
+    {
+        "chave": "129",
+        "Valor": "UBS Brasil Banco de Investimento S.A."
+    },
+    {
+        "chave": "130",
+        "Valor": "Caruana Scfi"
+    },
+    {
+        "chave": "131",
+        "Valor": "Tullett Prebon Brasil Cvc Ltda"
+    },
+    {
+        "chave": "132",
+        "Valor": "ICBC do Brasil Banco Múltiplo S.A."
+    },
+    {
+        "chave": "133",
+        "Valor": "Cresol Confederação"
+    },
+    {
+        "chave": "134",
+        "Valor": "Bgc Liquidez Dtvm Ltda"
+    },
+    {
+        "chave": "136",
+        "Valor": "Unicred Cooperativa"
+    },
+    {
+        "chave": "137",
+        "Valor": "Multimoney Cc Ltda"
+    },
+    {
+        "chave": "138",
+        "Valor": "Get Money Cc Ltda"
+    },
+    {
+        "chave": "139",
+        "Valor": "Intesa Sanpaolo Brasil S.A. – Banco Múltiplo"
+    },
+    {
+        "chave": "140",
+        "Valor": "Easynvest – Título Cv S.A"
+    },
+    {
+        "chave": "142",
+        "Valor": "Broker Brasil Cc Ltda"
+    },
+    {
+        "chave": "143",
+        "Valor": "Treviso Corretora de Câmbio S.A."
+    },
+    {
+        "chave": "144",
+        "Valor": "BEXS Banco de Câmbio S.A."
+    },
+    {
+        "chave": "145",
+        "Valor": "Levycam Ccv Ltda"
+    },
+    {
+        "chave": "146",
+        "Valor": "Guitta Corretora de Câmbio Ltda"
+    },
+    {
+        "chave": "149",
+        "Valor": "Facta S.A. Cfi"
+    },
+    {
+        "chave": "157",
+        "Valor": "Icap Do Brasil Ctvm Ltda"
+    },
+    {
+        "chave": "159",
+        "Valor": "Casa Credito S.A"
+    },
+    {
+        "chave": "163",
+        "Valor": "Commerzbank Brasil S.A. – Banco Múltiplo"
+    },
+    {
+        "chave": "169",
+        "Valor": "Banco Olé Bonsucesso Consignado S.A."
+    },
+    {
+        "chave": "172",
+        "Valor": "Albatross Ccv S.A"
+    },
+    {
+        "chave": "173",
+        "Valor": "BRL Trust Distribuidora de Títulos e Valores Mobiliários S.A."
+    },
+    {
+        "chave": "174",
+        "Valor": "Pernambucanas Financ S.A"
+    },
+    {
+        "chave": "177",
+        "Valor": "Guide Investimentos S.A. Corretora de Valores"
+    },
+    {
+        "chave": "180",
+        "Valor": "Cm Capital Markets Cctvm Ltda"
+    },
+    {
+        "chave": "182",
+        "Valor": "Dacasa Financeira S/A"
+    },
+    {
+        "chave": "183",
+        "Valor": "Socred S.A"
+    },
+    {
+        "chave": "184",
+        "Valor": "Banco Itaú BBA S.A."
+    },
+    {
+        "chave": "188",
+        "Valor": "Ativa Investimentos S.A"
+    },
+    {
+        "chave": "189",
+        "Valor": "HS Financeira S/A Crédito, Financiamento e Investimentos"
+    },
+    {
+        "chave": "190",
+        "Valor": "Servicoop"
+    },
+    {
+        "chave": "191",
+        "Valor": "Nova Futura Corretora de Títulos e Valores Mobiliários Ltda."
+    },
+    {
+        "chave": "194",
+        "Valor": "Parmetal Distribuidora de Títulos e Valores Mobiliários Ltda"
+    },
+    {
+        "chave": "196",
+        "Valor": "Banco Fair Corretora de Câmbio S.A"
+    },
+    {
+        "chave": "197",
+        "Valor": "Stone Pagamentos S.A"
+    },
+    {
+        "chave": "204",
+        "Valor": "Banco Bradesco Cartões S.A."
+    },
+    {
+        "chave": "208",
+        "Valor": "Banco BTG Pactual S.A."
+    },
+    {
+        "chave": "212",
+        "Valor": "Banco Original S.A."
+    },
+    {
+        "chave": "213",
+        "Valor": "Banco Arbi S.A."
+    },
+    {
+        "chave": "217",
+        "Valor": "Banco John Deere S.A."
+    },
+    {
+        "chave": "218",
+        "Valor": "Banco BS2 S.A."
+    },
+    {
+        "chave": "222",
+        "Valor": "Banco Credit Agricole Brasil S.A."
+    },
+    {
+        "chave": "224",
+        "Valor": "Banco Fibra S.A."
+    },
+    {
+        "chave": "233",
+        "Valor": "Banco Cifra S.A."
+    },
+    {
+        "chave": "237",
+        "Valor": "Banco Bradesco S.A."
+    },
+    {
+        "chave": "241",
+        "Valor": "Banco Clássico S.A."
+    },
+    {
+        "chave": "243",
+        "Valor": "Banco Máxima S.A."
+    },
+    {
+        "chave": "246",
+        "Valor": "Banco ABC Brasil S.A."
+    },
+    {
+        "chave": "246",
+        "Valor": "Banco ABC Brasil S.A."
+    },
+    {
+        "chave": "249",
+        "Valor": "Banco Investcred Unibanco S.A."
+    },
+    {
+        "chave": "250",
+        "Valor": "BCV – Banco de Crédito e Varejo S.A."
+    },
+    {
+        "chave": "253",
+        "Valor": "Bexs Corretora de Câmbio S/A"
+    },
+    {
+        "chave": "254",
+        "Valor": "Paraná Banco S.A."
+    },
+    {
+        "chave": "260",
+        "Valor": "Nu Pagamentos S.A (Nubank)"
+    },
+    {
+        "chave": "265",
+        "Valor": "Banco Fator S.A."
+    },
+    {
+        "chave": "266",
+        "Valor": "Banco Cédula S.A."
+    },
+    {
+        "chave": "268",
+        "Valor": "Barigui Companhia Hipotecária"
+    },
+    {
+        "chave": "269",
+        "Valor": "HSBC Brasil S.A. – Banco de Investimento"
+    },
+    {
+        "chave": "270",
+        "Valor": "Sagitur Corretora de Câmbio Ltda."
+    },
+    {
+        "chave": "271",
+        "Valor": "IB Corretora de Câmbio, Títulos e Valores Mobiliários S.A."
+    },
+    {
+        "chave": "273",
+        "Valor": "Cooperativa de Crédito Rural de São Miguel do Oeste – Sulcredi/São Miguel"
+    },
+    {
+        "chave": "276",
+        "Valor": "Senff S.A. – Crédito, Financiamento e Investimento"
+    },
+    {
+        "chave": "278",
+        "Valor": "Genial Investimentos Corretora de Valores Mobiliários S.A."
+    },
+    {
+        "chave": "279",
+        "Valor": "Cooperativa de Crédito Rural de Primavera Do Leste"
+    },
+    {
+        "chave": "280",
+        "Valor": "Avista S.A. Crédito, Financiamento e Investimento"
+    },
+    {
+        "chave": "283",
+        "Valor": "Rb Capital Investimentos Dtvm Ltda"
+    },
+    {
+        "chave": "285",
+        "Valor": "Frente Corretora de Câmbio Ltda."
+    },
+    {
+        "chave": "286",
+        "Valor": "Cooperativa de Crédito Rural De Ouro"
+    },
+    {
+        "chave": "288",
+        "Valor": "Carol Distribuidora de Títulos e Valor Mobiliários Ltda"
+    },
+    {
+        "chave": "290",
+        "Valor": "Pagseguro Internet S.A"
+    },
+    {
+        "chave": "292",
+        "Valor": "BS2 Distribuidora de Títulos e Valores Mobiliários S.A."
+    },
+    {
+        "chave": "293",
+        "Valor": "Lastro RDV Distribuidora de Títulos e Valores Mobiliários Ltda."
+    },
+    {
+        "chave": "298",
+        "Valor": "Vips Cc Ltda"
+    },
+    {
+        "chave": "299",
+        "Valor": "Sorocred Crédito, Financiamento e Investimento S.A."
+    },
+    {
+        "chave": "300",
+        "Valor": "Banco de La Nacion Argentina"
+    },
+    {
+        "chave": "301",
+        "Valor": "Bpp Instituição De Pagamentos S.A"
+    },
+    {
+        "chave": "310",
+        "Valor": "Vortx Distribuidora de Títulos e Valores Mobiliários Ltda"
+    },
+    {
+        "chave": "318",
+        "Valor": "Banco BMG S.A."
+    },
+    {
+        "chave": "320",
+        "Valor": "China Construction Bank (Brasil) Banco Múltiplo S.A."
+    },
+    {
+        "chave": "323",
+        "Valor": "Mercado Pago – Conta Do Mercado Livre"
+    },
+    {
+        "chave": "326",
+        "Valor": "Parati – Crédito Financiamento e Investimento S.A."
+    },
+    {
+        "chave": "335",
+        "Valor": "Banco Digio S.A"
+    },
+    {
+        "chave": "336",
+        "Valor": "Banco C6 S.A – C6 Bank"
+    },
+    {
+        "chave": "340",
+        "Valor": "Super Pagamentos e Administração de Meios Eletrônicos S.A."
+    },
+    {
+        "chave": "341",
+        "Valor": "Itaú Unibanco S.A."
+    },
+    {
+        "chave": "348",
+        "Valor": "Banco Xp S/A"
+    },
+    {
+        "chave": "366",
+        "Valor": "Banco Société Générale Brasil S.A."
+    },
+    {
+        "chave": "368",
+        "Valor": "Banco Carrefour"
+    },
+    {
+        "chave": "370",
+        "Valor": "Banco Mizuho do Brasil S.A."
+    },
+    {
+        "chave": "376",
+        "Valor": "Banco J. P. Morgan S.A."
+    },
+    {
+        "chave": "389",
+        "Valor": "Banco Mercantil de Investimentos S.A."
+    },
+    {
+        "chave": "389",
+        "Valor": "Banco Mercantil do Brasil S.A."
+    },
+    {
+        "chave": "394",
+        "Valor": "Banco Bradesco Financiamentos S.A."
+    },
+    {
+        "chave": "399",
+        "Valor": "Kirton Bank S.A. – Banco Múltiplo"
+    },
+    {
+        "chave": "412",
+        "Valor": "Banco Capital S.A."
+    },
+    {
+        "chave": "422",
+        "Valor": "Banco Safra S.A."
+    },
+    {
+        "chave": "456",
+        "Valor": "Banco MUFG Brasil S.A."
+    },
+    {
+        "chave": "464",
+        "Valor": "Banco Sumitomo Mitsui Brasileiro S.A."
+    },
+    {
+        "chave": "473",
+        "Valor": "Banco Caixa Geral – Brasil S.A."
+    },
+    {
+        "chave": "477",
+        "Valor": "Citibank N.A."
+    },
+    {
+        "chave": "479",
+        "Valor": "Banco ItauBank S.A"
+    },
+    {
+        "chave": "487",
+        "Valor": "Deutsche Bank S.A. – Banco Alemão"
+    },
+    {
+        "chave": "488",
+        "Valor": "JPMorgan Chase Bank, National Association"
+    },
+    {
+        "chave": "492",
+        "Valor": "ING Bank N.V."
+    },
+    {
+        "chave": "494",
+        "Valor": "Banco de La Republica Oriental del Uruguay"
+    },
+    {
+        "chave": "495",
+        "Valor": "Banco de La Provincia de Buenos Aires"
+    },
+    {
+        "chave": "505",
+        "Valor": "Banco Credit Suisse (Brasil) S.A."
+    },
+    {
+        "chave": "545",
+        "Valor": "Senso Ccvm S.A"
+    },
+    {
+        "chave": "600",
+        "Valor": "Banco Luso Brasileiro S.A."
+    },
+    {
+        "chave": "604",
+        "Valor": "Banco Industrial do Brasil S.A."
+    },
+    {
+        "chave": "610",
+        "Valor": "Banco VR S.A."
+    },
+    {
+        "chave": "611",
+        "Valor": "Banco Paulista S.A."
+    },
+    {
+        "chave": "612",
+        "Valor": "Banco Guanabara S.A."
+    },
+    {
+        "chave": "613",
+        "Valor": "Omni Banco S.A."
+    },
+    {
+        "chave": "613",
+        "Valor": "Omni Banco S.A."
+    },
+    {
+        "chave": "623",
+        "Valor": "Banco PAN S.A."
+    },
+    {
+        "chave": "626",
+        "Valor": "Banco Ficsa S.A."
+    },
+    {
+        "chave": "630",
+        "Valor": "Banco Smartbank S.A."
+    },
+    {
+        "chave": "633",
+        "Valor": "Banco Rendimento S.A."
+    },
+    {
+        "chave": "634",
+        "Valor": "Banco Triângulo S.A."
+    },
+    {
+        "chave": "637",
+        "Valor": "Banco Sofisa S.A."
+    },
+    {
+        "chave": "641",
+        "Valor": "Banco Alvorada S.A."
+    },
+    {
+        "chave": "643",
+        "Valor": "Banco Pine S.A."
+    },
+    {
+        "chave": "652",
+        "Valor": "Itaú Unibanco Holding S.A."
+    },
+    {
+        "chave": "653",
+        "Valor": "Banco Indusval S.A."
+    },
+    {
+        "chave": "654",
+        "Valor": "Banco A.J.Renner S.A."
+    },
+    {
+        "chave": "655",
+        "Valor": "Banco Votorantim S.A."
+    },
+    {
+        "chave": "658",
+        "Valor": "Banco Porto Real de Investimentos S.A."
+    },
+    {
+        "chave": "707",
+        "Valor": "Banco Daycoval S.A."
+    },
+    {
+        "chave": "707",
+        "Valor": "Banco Daycoval S.A."
+    },
+    {
+        "chave": "712",
+        "Valor": "Banco Ourinvest S.A."
+    },
+    {
+        "chave": "720",
+        "Valor": "Banco Maxinvest S.A."
+    },
+    {
+        "chave": "739",
+        "Valor": "Banco Cetelem S.A."
+    },
+    {
+        "chave": "741",
+        "Valor": "Banco Ribeirão Preto S.A."
+    },
+    {
+        "chave": "743",
+        "Valor": "Banco Semear S.A."
+    },
+    {
+        "chave": "745",
+        "Valor": "Banco Citibank S.A."
+    },
+    {
+        "chave": "746",
+        "Valor": "Banco Modal S.A."
+    },
+    {
+        "chave": "747",
+        "Valor": "Banco Rabobank International Brasil S.A."
+    },
+    {
+        "chave": "748",
+        "Valor": "Banco Cooperativo Sicredi S.A."
+    },
+    {
+        "chave": "748",
+        "Valor": "Banco Cooperativo Sicredi S.A."
+    },
+    {
+        "chave": "751",
+        "Valor": "Scotiabank Brasil S.A. Banco Múltiplo"
+    },
+    {
+        "chave": "752",
+        "Valor": "Banco BNP Paribas Brasil S.A."
+    },
+    {
+        "chave": "753",
+        "Valor": "Novo Banco Continental S.A. – Banco Múltiplo"
+    },
+    {
+        "chave": "754",
+        "Valor": "Banco Sistema S.A."
+    },
+    {
+        "chave": "755",
+        "Valor": "Bank of America Merrill Lynch Banco Múltiplo S.A."
+    },
+    {
+        "chave": "756",
+        "Valor": "Banco Cooperativo do Brasil S.A. – BANCOOB"
+    },
+    {
+        "chave": "757",
+        "Valor": "Banco KEB HANA do Brasil S.A."
+    },
+    {
+        "chave": "085-x",
+        "Valor": "Cooperativa Central de Crédito Urbano-CECRED"
+    },
+    {
+        "chave": "087-6",
+        "Valor": "Cooperativa Central de Economia e Crédito Mútuo das Unicredsde Santa Catarina e Paraná"
+    },
+    {
+        "chave": "089-2",
+        "Valor": "Cooperativa de Crédito Rural da Região da Mogiana"
+    },
+    {
+        "chave": "090-2",
+        "Valor": "Cooperativa Central de Economia e Crédito Mutuo – SICOOB UNIMAIS"
+    },
+    {
+        "chave": "091-4",
+        "Valor": "Unicred Central do Rio Grande do Sul"
+    },
+    {
+        "chave": "098-1",
+        "Valor": "CREDIALIANÇA COOPERATIVA DE CRÉDITO RURAL"
+    },
+    {
+        "chave": "114-7",
+        "Valor": "Central das Cooperativas de Economia e Crédito Mútuo doEstado do Espírito Santo Ltda."
+    }
+]

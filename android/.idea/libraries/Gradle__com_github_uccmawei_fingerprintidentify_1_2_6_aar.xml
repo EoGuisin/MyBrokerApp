@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.uccmawei:fingerprintidentify:1.2.6@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/ba9e5a9e56d2d335c2ae1dace46b4ddc/transformed/jetified-fingerprintidentify-1.2.6/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/ba9e5a9e56d2d335c2ae1dace46b4ddc/transformed/jetified-fingerprintidentify-1.2.6/jars/libs/Samsung_Fingerprint_Sdk-v1.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/ba9e5a9e56d2d335c2ae1dace46b4ddc/transformed/jetified-fingerprintidentify-1.2.6/jars/libs/Samsung_Fingerprint_Pass-v1.2.6.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/ba9e5a9e56d2d335c2ae1dace46b4ddc/transformed/jetified-fingerprintidentify-1.2.6/jars/libs/MeiZu_Fingerprint.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ba9e5a9e56d2d335c2ae1dace46b4ddc/transformed/jetified-fingerprintidentify-1.2.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ba9e5a9e56d2d335c2ae1dace46b4ddc/transformed/jetified-fingerprintidentify-1.2.6/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.uccmawei/fingerprintidentify/1.2.6/9b5999eb396f6754f921e8b5005e6faf8dfd2366/fingerprintidentify-1.2.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.uccmawei/fingerprintidentify/1.2.6/61015579bfffd203f522dd4a7ed3a77048386a17/fingerprintidentify-1.2.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

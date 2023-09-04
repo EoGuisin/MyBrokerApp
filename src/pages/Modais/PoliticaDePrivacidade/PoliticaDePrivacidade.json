@@ -1,0 +1,355 @@
+{
+    "Item0": [
+        {
+            "Descricao": "Como parte das nossas operações diárias, necessitamos coletar dados pessoais de nossos clientes e potenciais clientes com o intuito de fornecer os nossos produtos e serviços alinhados aos valores, interesses e perfil de cada um. A privacidade de suas informações é de grande importância para nós, e temos como Política respeitar a confidencialidade da informação e a privacidade das pessoas."
+        },
+        {
+            "Descricao": "Esta Política de Privacidade é aplicável a todos os Sites e Aplicativos da My Broker e a todos que acessam os nossos Sites e Aplicativos. Ao acessar os Sites e Aplicativos da My Broker, você expressamente aceita e concorda com as disposições desta Política de Privacidade. Por conta disso, você deve ler atentamente esta Política de Privacidade antes de usar os nossos Sites e Aplicativos. Caso você não concorde com esta Política, você não deve usar os nossos Sites e Aplicativos."
+        },
+        {
+            "Descricao": "A nossa Política de Privacidade é regularmente revisada para assegurar a conformidade com leis, regulamentações e novas tecnologias, refletindo possíveis mudanças nas nossas operações e práticas de negócio. É importante que você acesse regularmente esta Política, e que observe a data de atualização informada abaixo."
+        },
+        {
+            "Descricao": "Além desta Política de Privacidade, alguns Sites e Aplicativos podem ter serviços e funcionalidades específicos e termos e condições próprios ou adicionais para a sua utilização. Nesse caso, os termos adicionais estarão disponíveis em referidos Sites e Aplicativos e serão aplicáveis se você usar tais serviços e funcionalidades."
+        }
+    ],
+    "Item1": {
+        "Titulo": "Considerações Gerais",
+        "Paragrafos": [
+            {
+                "Descricao": "A My Broker respeita a privacidade de todos os titulares de dados pessoais, estando, desta forma, comprometida a tomar todas as medidas possíveis para assegurar de maneira razoável a proteção dos dados pessoais coletados. "
+            },
+            {
+                "Descricao": "Todas as informações são tratadas de acordo com as leis e regulamentações de proteção de dados aplicáveis. Procedimentos técnicos e organizacionais estão em vigor para garantir que a sua informação esteja sempre segura. "
+            },
+            {
+                "Descricao": "Como parte destes procedimentos, regularmente treinamos e conscientizamos todos os nossos colaboradores sobre a importância da manutenção, salvaguarda e respeito da sua informação pessoal e consideramos a violação da privacidade dos dados pessoais algo muito sério, por isso monitoramos constantemente e prevemos medidas disciplinares apropriadas para eventuais descumprimentos."
+            },
+            {
+                "Descricao": "Tomamos os devidos cuidados para proteger seus dados e isto inclui a utilização de meios de comunicação oficiais com a empresa, sempre através de aplicativos homologados."
+            },
+            {
+                "Descricao": "A My Broker pode utilizar diferentes formas para coletar dados pessoais, tais como: "
+            }
+        ],
+        "Itens": [
+            {
+                "item": "• Quando são fornecidos no site, por meio do preenchimento de formulários, questionários, solicitação de envio de email, em situações que incluem, por exemplo, você: criar uma conta no nosso site; solicitar o envio de materiais de marketing ou institucionais; participar de promoção ou pesquisa; nos contatar para transmitir algum feedback; solicitar o envio de informações; solicitar atendimento pelo site."
+            },
+            {
+                "item": "• Por meio de dados de acesso aos nossos Sites e Aplicativos; "
+            },
+            {
+                "item": "• Por meio de fontes publicamente disponíveis. "
+            }
+        ]
+    },
+    "Item2": {
+        "Titulo": "Acesso a conteúdo restrito",
+        "Paragrafos": [
+            {
+                "Descricao": "Alguns dos nossos Sites e Aplicativos possuem área de conteúdo aberto e de conteúdo restrito. Para ter acesso ao conteúdo restrito, é necessário que o Usuário faça um cadastro fornecendo algumas informações pessoais para a criação de um login e senha. Seu login e senha para acesso ao site ficarão armazenados nos servidores da Globaltec."
+            },
+            {
+                "Descricao": "Fique atento se as informações fornecidas estão corretas, pois você é responsável pela veracidade das mesmas. Caso haja alguma inconsistência, isso pode impactar no seu acesso ao Site ou ao Aplicativo."
+            },
+            {
+                "Descricao": "Somente você pode utilizar o seu login, senha e itoken, sendo assim proibido o compartilhamento com terceiros. Note que o seu acesso é pessoal e intransferível, e você é inteiramente responsável pela guarda, sigilo e bom uso do seu login, senha e itoken."
+            },
+            {
+                "Descricao": "O acesso à sua área restrita pelo aplicativo será realizado pela biometria disponibilizada por seu aparelho. O tratamento de dados será inteiramente realizado pelo desenvolvedor do sistema operacional de seu celular. Neste caso, a My Broker não realiza nenhum tratamento de dados."
+            }
+        ]
+    },
+    "Item3": {
+        "Titulo": "Quais informações são coletadas para criação de conta? ",
+        "Paragrafos": [
+            {
+                "Descricao": "Para cadastro em nossos Sites e Aplicativos, e posterior criação de uma conta, os seguintes dados devem ser informados:"
+            }
+        ],
+        "Itens": [
+            {
+                "item": "• CPF"
+            },
+            {
+                "item": "• Data de nascimento"
+            },
+            {
+                "item": "• E-mail"
+            },
+            {
+                "item": "• Login"
+            },
+            {
+                "item": "• Nome Completo"
+            },
+            {
+                "item": "• Número, órgão emissor e data de emissão do RG"
+            },
+            {
+                "item": "• Sexo"
+            },
+            {
+                "item": "• Estado Civil"
+            },
+            {
+                "item": "• Regime de bens"
+            },
+            {
+                "item": "• UF de nascimento"
+            },
+            {
+                "item": "• Naturalidade"
+            },
+            {
+                "item": "• Profissão"
+            },
+            {
+                "item": "• Endereço Completo"
+            },
+            {
+                "item": "• telefones"
+            }
+        ]
+    },
+    "Item4": {
+        "Titulo": "Quais dados de acesso são coletados pelos Sites e Aplicativos?",
+        "Paragrafos": [
+            {
+                "Descricao": "Informações coletadas de usuários ao utilizar os Sites incluem, entre outros, o navegador de acesso do usuário; endereço do protocolo de Internet (IP); data e hora do acesso; a localização do usuário; e as ações do usuário no site. Informações coletadas de usuários ao utilizar os Aplicativos incluem, entre outras, o modelo do dispositivo móvel e o sistema operacional utilizado para o acesso; endereço do protocolo de Internet (IP); data e hora do acesso, versão do aplicativo; provedor de conexão do usuário; localização do usuário (quando autorizado e habilitado pelo usuário); e as ações do usuário nos Aplicativos."
+            }
+        ]
+    },
+    "Item5": {
+        "Titulo": "Conteúdos enviados por usuários",
+        "Paragrafos": [
+            {
+                "Descricao": "Alguns de nossos Sites e Aplicativos podem permitir que os Usuários enviem conteúdo, como fotos, documentos, comentários e outras mensagens para fins de cadastro, atendimento, uso de serviços disponíveis nos Sites e Aplicativos ou outras finalidades. Nesses casos, os conteúdos enviados não ficarão disponíveis em áreas de conteúdo aberto dos Sites e Aplicativos. Lembramos que, em qualquer dos casos, os conteúdos enviados serão de responsabilidade de quem os enviou."
+            }
+        ]
+    },
+    "Item6": {
+        "Titulo": "Acesso a serviço de Terceiros ",
+        "Paragrafos": [
+            {
+                "Descricao": "Caso você utilize o serviço de chat (“Sofia”) para atendimento, será necessário realizar sua autenticação no serviço, de forma a identificar sua conta. Seus dados serão compartilhados com a empresa PoliChat, de forma criptografada, para que o atendimento ocorra de forma segura. Exigimos de nossos fornecedores a utilização de ferramentas técnicas e administrativas razoáveis para garantir a segurança dos seus dados."
+            }
+        ]
+    },
+    "Item7": {
+        "Titulo": "Links para sites e aplicativos de terceiros",
+        "Paragrafos": [
+            {
+                "Descricao": "Nossos Sites e Aplicativos podem conter links para sites e aplicativos de terceiros. Note que dentro destes sites e aplicativos de terceiros você estará sujeito a outros termos de uso e a outras políticas de privacidade. Nossa Política de Privacidade não é válida nos sites e aplicativos de terceiros. A existência desses links não significa nenhuma relação de endosso ou de patrocínio entre a My Broker e esses terceiros e a My Broker não tem nenhuma responsabilidade com relação a tais terceiros."
+            }
+        ]
+    },
+    "Item8": {
+        "Titulo": "Quais informações são coletadas de pessoas que se candidatam a vagas de trabalho?",
+        "Paragrafos": [
+            {
+                "Descricao": "Caso você tenha o interesse em trabalhar conosco, você poderá nos enviar um e-mail através do link disponível no site, com seu curriculum em anexo. Os dados que você nos enviar serão armazenados em nosso Banco de Talentos e os utilizaremos para analisar seu perfil de acordo com nossas vagas disponíveis. Utilizaremos os dados de contato fornecidos por vocês para entrar em contato, caso a gente queira te conhecer melhor. Podemos solicitar informação pessoal adicional se assim considerarmos necessário para o recrutamento."
+
+            }
+        ]
+    },
+    "Item9": {
+        "Titulo": "Por que a My Broker coleta e utiliza os seus dados pessoais?",
+        "Paragrafos": [
+            {
+                "Descricao": "Podemos utilizar a sua informação pessoal para as seguintes finalidades: "
+            }
+        ],
+        "Itens":[
+            {
+                "item": "I. Para criação da conta em nossa plataforma",
+                "subItem": "Necessitamos verificar a sua identidade de forma a validá-lo como cliente, e isso pode incluir verificações de identidade por entidades terceiras. O uso da sua informação pessoal é necessário para identificarmos quem é você, já que precisamos vincular sua conta criada no site à sua conta interna na empresa, de forma a fornecer para você informações atualizadas e fidedignas."
+            },
+            {
+                "item": "II. Para execução dos serviços contratados",
+                "subItem": "Após abertura de sua conta no site, será necessário utilizar os seus dados pessoais para desempenhar os nossos serviços e cumprir com as nossas obrigações, conforme contratados. Utilizaremos as informações para executar o processamento de suas solicitações, cumprindo assim com as nossas obrigações contratuais."
+            },
+            {
+                "item": "III. Para cumprimento de uma obrigação legal",
+                "subItem": "Existe uma variedade de obrigações legais provenientes das legislações aplicáveis às quais estamos sujeitos (ex: legislação de serviços financeiros, leis tributárias, etc.). Também existem várias autoridades supervisoras a cujas leis e regulamentações estamos sujeitos. Tais obrigações e normas obrigam-nos a executar atividades de processamento de dados pessoais para verificações de crédito, verificação de identidade, cumprimento de ordens judiciais, leis tributárias e outras obrigações. "
+            },
+            {
+                "item": "IV. Para envio de comunicados e pesquisas de satisfação",
+                "subItem": "Ocasionalmente, podemos enviar-lhe comunicados e pesquisas de satisfação como parte do nosso processo de feedback do cliente. É do nosso legítimo interesse obter tais opiniões para assegurar que os nossos serviços/produtos estão sendo prestados no mais alto nível."
+            },
+            {
+                "item": "V. Para análise de comportamento em nosso site",
+                "subItem": "Nosso site pode conter ferramentas de análise de dados que nos permitam analisar comportamentos para garantir a qualidade das plataformas e proporcionar a melhor experiência ao usuário. É de nosso legítimo interesse manter nosso site funcional."
+            },
+            {
+                "item": "VI.Para garantia da segurança patrimonial e da integridade física",
+                "subItem": "Caso venha visitar nossas instalações, podemos gravar a sua imagem através do nosso sistema de monitoramento por razões de segurança. Serão coletadas também informações pessoais para providenciar as suas credenciais de acesso, de forma a manter um ambiente de trabalho seguro."
+            },
+            {
+                "item": "VII. Para proporcionar garantia de prevenção a fraudes e segurança dos titulares ",
+                "subItem": "Necessitamos tratar dados pessoais com objetivo de análise e prevenção contra fraudes, em diversos cenários. Além disso, podemos tratar informações pessoais com a finalidade de segurança dos titulares de dados, prevenindo contra potenciais crimes, medidas contra invasão, e segurança de ativos. "
+            },
+            {
+                "item": "VIII. Para salvaguarda dos legítimos interesses ",
+                "subItem": "Processamos dados pessoais para salvaguardar nossos legítimos interesses. Alguns exemplos de tais atividades incluem: Dar início a reivindicações legais e preparação da nossa defesa em casos de litígio; Realizar análise de movimentações financeiras para elaboração de relatórios estratégicos; Estabelecer sistemas de monitoramento das nossas instalações, por razões de segurança; Medidas de gestão de negócio, otimização de desempenho da plataforma, e desenvolvimento de produtos e serviços; Partilhar os seus dados pessoais com as empresas coligadas à My Broker com intuito de atualizar/verificar as suas informações pessoais de acordo com o enquadramento relativo à lavagem de dinheiro."
+            }
+        ]
+    },
+    "Item10": {
+        "Titulo": "Obtendo o seu Consentimento",
+        "Paragrafos": [
+            {
+                "Descricao": "Caso a finalidade da coleta para qualquer tratamento de dados pessoais necessite do seu consentimento, este será fornecido por meio dos nossos Sites e Aplicativos."
+            }
+        ]
+    },
+    "Item11": {
+        "Titulo": "Compartilhamento de dados pessoais",
+        "Paragrafos": [
+            {
+                "Descricao": "Observados os critérios definidos nesta Política, a My Broker não divulgará dados pessoais dos seus clientes a uma terceira parte, exceto:"
+            },
+            {
+                "Descricao": "As entidades terceiras para as quais são compartilhadas informações pessoais de forma a desempenhar os serviços contratados, devem executar o processamento de forma a garantir o cumprimento com as obrigações legais. Ainda assim, exigimos que as organizações terceiras que manuseiam ou obtêm esses dados pessoais, reconheçam a criticidade desta informação, assumam respeitar todos os direitos individuais de privacidade e cumpram com todas as leis relevantes de proteção de dados. Como parte do uso dos seus dados para os fins acima mencionados, podemos eventualmente divulgar a sua informação pessoal a: "
+            }
+        ],
+        "Itens": [
+            {
+                "item": "• para atendimento à medida necessária dentro dos termos das leis, regras ou regulações aplicáveis;"
+            },
+            {
+                "item": "• perante a existência de obrigação de divulgação; "
+            },
+            {
+                "item": "• para execução de contrato do qual você seja parte;"
+            },
+            {
+                "item": "• por legítimo interesse que exija a divulgação; ou "
+            },
+            {
+                "item": "• a pedido do cliente, mediante o seu consentimento. "
+            }
+        ],
+        "_Itens": [
+            {
+                "item": "a) Demais empresas coligadas à My Broker, nos limites das finalidades estabelecidas nesta Política;"
+            },
+            {
+                "item": "b) Entidades terceiras tais como prestadores de serviços comerciais e consultores especializados contratados para serviços administrativos, financeiros, legais, segurança, pesquisa e outros serviços;"
+            },
+            {
+                "item": "c) Entidades terceiras que estejam realizando trabalhos de Auditoria; "
+            },
+            {
+                "item": "d) Partes empresariais, fornecedores de crédito, tribunais, órgãos controladores e autoridades reguladoras;"
+            },
+            {
+                "item": "e) Prestadores de serviços de pagamento e/ou instituições bancárias, para geração e controle de pagamentos; "
+            },
+            {
+                "item": "f) Na eventualidade de divulgarmos os seus dados pessoais a partes empresariais, tais como empresas de pagamentos, de forma a desempenhar os serviços solicitados pelos clientes, as referidas partes podem armazenar a sua informação de forma a cumprir com as suas obrigações legais;"
+            },
+            {
+                "item": "g) Qualquer pessoa ou empresa desde que tenhamos o seu consentimento;"
+            },
+            {
+                "item": "h) Os clientes aceitam e consentem que podemos ocasionalmente analisar os dados recolhidos quando visita os nossos Sites e Aplicativos ou por outros meios, como questionários, para fins estatísticos de forma a melhorar e aprimorar os nossos serviços."
+            }
+        ]
+    },
+    "Item12": {
+        "Titulo": "Como nossos sites e aplicativos não devem ser utilizados",
+        "Paragrafos": [
+            {
+                "Descricao": "Fique atento às seguintes práticas que vão contra as nossas condições de uso:"
+            }
+        ],
+        "Itens": [
+            {
+                "item": "• Praticar qualquer ato ilícito, violar direitos da My Broker ou de terceiros e violar a legislação vigente;"
+            },
+            {
+                "item": "• Upload, envio ou transmissão de qualquer conteúdo erótico, pornográfico, obsceno, calunioso, difamatório, de violência física ou moral, com apologia ao crime, uso de drogas, consumo de bebidas alcoólicas ou produtos para fumo, bem como que promova ou incite o ódio, atividades ilegais, o preconceito ou qualquer outra forma de discriminação por qualquer motivo;"
+            },
+            {
+                "item": "• Usar qualquer sistema/aplicação automatizada para realizar consultas, acessos ou qualquer outra operação massificada, para qualquer finalidade, sem autorização da My Broker;"
+            },
+            {
+                "item": "• Praticar atos que prejudiquem qualquer Site, Aplicativo e equipamento da My Broker e de outros Usuários e terceiros, incluindo por meio de vírus, trojans, malware, worm, bot, backdoor, spyware, rootkit, ou qualquer outro meio com este fim."
+            }
+        ]
+    },
+    "Item13": {
+        "Titulo": "Suspensão de acesso",
+        "Paragrafos": [
+            {
+                "Descricao": "A qualquer momento, sem aviso prévio ou posterior, a My Broker poderá suspender, cancelar ou interromper o acesso aos Sites e Aplicativos, inclusive se o uso destes canais contrariar o disposto neste documento."
+            }
+        ]
+    },
+    "Item14": {
+        "Titulo": "Transferência internacional dos dados",
+        "Paragrafos": [
+            {
+                "Descricao": "A My Broker trata as suas informações pessoais em território nacional e em países que possuem legislações semelhantes e equivalentes. Além disso, mantém clausulas específicas para assegurar o correto tratamento, alinhadas com as leis e regulamentações brasileiras."
+            }
+        ]
+    },
+    "Item15": {
+        "Titulo": "Segurança e privacidade dos dados pessoais ",
+        "Paragrafos": [
+            {
+                "Descricao": "A My Broker tem como compromisso zelar e tratar as informações de nossos clientes e demais titulares de dados utilizando medidas que visam garantir a proteção, a manutenção da privacidade, integridade, disponibilidade e confidencialidade dos dados pessoais tratados em nosso ambiente. Além de implementar medidas para prevenir, detectar e reduzir a vulnerabilidade a incidentes em nossos ambientes tecnológicos. Por exemplo, criptografamos ou anonimizamos certas informações pessoais confidenciais, também exigimos que nossos fornecedores protejam tais informações contra acesso, uso e divulgação não autorizados. "
+            }
+        ]
+    },
+    "Item16": {
+        "Titulo": "Armazenamento de informação pessoal e período de retenção",
+        "Paragrafos": [
+            {
+                "Descricao": "A My Broker deverá manter as suas informações pessoais durante o tempo necessário para cumprir com os fins para os quais as informações são tratadas ou por outros motivos válidos para reter suas informações pessoais, como por exemplo o cumprimento de obrigações legais. Caso não deseje que a My Broker utilize mais os seus dados pessoais, entre em contato via site, na seção “Contato” e analisaremos sua requisição."
+            }
+        ]
+    },
+    "Item17": {
+        "Titulo": "Consultar seus Dados Pessoais ",
+        "Paragrafos": [
+            {
+                "Descricao": "Se desejar realizar a consulta dos seus dados pessoais que são tratados em nosso ambiente, envie um e-mail para privacidade@My Broker.com.br."
+            }
+        ]
+    },
+    "Item18": {
+        "Titulo": "Alterar seus Dados Pessoais",
+        "Paragrafos": [
+            {
+                "Descricao": "Se desejar alterar seus dados pessoais envie um e-mail para privacidade@My Broker.com.br. Este procedimento está sujeito a análise e não será realizado em algumas hipóteses, tais como, na ocorrência de inadimplência e só será realizado mediante a verificação das novas informações."
+            }
+        ]
+    },
+    "Item19": {
+        "Titulo": "Solicitar o cancelamento de tratamento dos seus Dados Pessoais ",
+        "Paragrafos": [
+            {
+                "Descricao": "Se desejar que não realizemos mais o processamento da sua informação pessoal, envie um e-mail para privacidade@My Broker.com.br. Este procedimento está sujeito a análise e não será realizado em algumas hipóteses, tais como, na ocorrência de inadimplência."
+            }
+        ]
+    },
+    "Item20": {
+        "Titulo": "Contatos Encarregado Pelo Tratamento de Proteção de Dados:",
+        "Paragrafos": [
+            {
+                "Descricao": "Possuímos um responsável pela proteção de dados o qual inspeciona questões relacionadas a esta Política de Privacidade. Caso tenha alguma dúvida sobre como consultar seus dados e exercer seus direitos de titular, nos contate pelo e-mail: privacidade@My Broker.com.br."
+            }
+        ]
+    },
+    "Item21": {
+        "Titulo": "Aviso Legal",
+        "Paragrafos": [
+            {
+                "Descricao": "A My Broker não é responsável pelo uso indevido ou perda dos dados pessoais a que não tem acesso ou controle. Ficamos também isentos de responsabilidade diante do uso ilegal e não autorizado dessa informação como consequência de uso indevido ou desvio das suas credenciais de acesso, conduta negligente ou maliciosa como consequência de atos ou omissões da sua parte ou de alguém autorizado em seu nome."
+            }
+        ]
+    }
+}
